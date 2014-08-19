@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Lex Blogs 101]]></title>
+  <link href="http://alexantosh.github.io/atom.xml" rel="self"/>
+  <link href="http://alexantosh.github.io/"/>
+  <updated>2014-08-19T19:27:44+03:00</updated>
+  <id>http://alexantosh.github.io/</id>
+  <author>
+    <name><![CDATA[Alex GUNAGWERA]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Hello World]]></title>
+    <link href="http://alexantosh.github.io/blog/2014/08/19/hello-world/"/>
+    <updated>2014-08-19T19:27:03+03:00</updated>
+    <id>http://alexantosh.github.io/blog/2014/08/19/hello-world</id>
+    <content type="html"><![CDATA[<h2>This is my first blog post.</h2>
+
+<p><strong> I am Alex </strong></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Lex's Favorite Quotes]]></title>
+    <link href="http://alexantosh.github.io/blog/2014/08/15/lexs-favorite-quotes/"/>
+    <updated>2014-08-15T21:17:25+03:00</updated>
+    <id>http://alexantosh.github.io/blog/2014/08/15/lexs-favorite-quotes</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
